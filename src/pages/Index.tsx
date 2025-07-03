@@ -130,7 +130,7 @@ const Index = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-green-400/20 to-lime-400/20 rounded-full blur-xl animate-pulse"></div>
                 {/* <Apple className="w-12 h-12 sm:w-16 sm:h-16 md:w-20 md:h-20 text-green-400 mx-auto mb-4 animate-bounce-gentle relative z-10 drop-shadow-2xl" 
                   style={{ filter: 'drop-shadow(0 0 20px rgba(34, 197, 94, 0.5))' }} /> */}
-              <img src='./Pulse.png' className='h-[130px]'/>
+              <img src='./p logo.png' className='h-[130px]'/>
               
               <Sparkles className="w-4 h-4 sm:w-6 sm:h-6 md:w-8 md:h-8 bg-transparent  absolute -top-1 -right-1 sm:-top-2 sm:-right-2 animate-heartbeat" 
                 fill="currentColor" style={{display:'none'}}/>
