@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
   // 👇 Important for GitHub Pages deployment
-  base: "/puls-website-soon/",
+  base: "/",
 
   server: {
     host: "::",
